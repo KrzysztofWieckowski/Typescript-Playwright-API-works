@@ -1,10 +1,18 @@
-# Testing with API by TS and Playwright - .
+# Testing with API by TS and Playwright.
 
 ---
 
 ## Contents.
 
 - This demo project delivers a framework for website test automation with REST API. 
+
+- The project creates reports, uses API requests for:
+
+  -  creating articles,
+  
+  -  deleting articles, 
+  
+  - logging in.
 
 - You can easily create a new test changing:
 
@@ -15,14 +23,6 @@
   - data provided,
 
   - expected results.
-
-- The project creates reports, uses API requests for:
-
-  -  creating articles,
-  
-  -  deleting articles, 
-  
-  - logging in.
 
 
 ---

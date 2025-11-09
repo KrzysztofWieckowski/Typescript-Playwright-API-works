@@ -10,8 +10,8 @@ export const ARTICLES = {
 };
 
 export const LOG_IN = {
-    EMAIL: 'k@wp.pl',
-    PASSWORD: 'Aphextwin'
+    EMAIL: '***',
+    PASSWORD: '***'
 };
 
 export const BUTTONS = {
